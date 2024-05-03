@@ -1,4 +1,4 @@
-![3232logo](https://github.com/ImEXPLO/NewerPaintings/assets/73023213/b2a91606-c2cc-4e4d-92c3-ff4d35b3ba87) [NewerPaintings](https://minecraft.curseforge.com/projects/newer-paintings)
+![3232logo](https://github.com/ImEXPLO/NewerPaintings/assets/73023213/b2a91606-c2cc-4e4d-92c3-ff4d35b3ba87) [NewerPaintings](https://legacy.curseforge.com/minecraft/mc-mods/newer-paintings)
 ===========
 
 Minecraft mod that add paintings from new versions of Minecraft (1.21) to older versions
